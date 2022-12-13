@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MateuszZelaszczyk
+- 👋 Hi, I’m @MateuszZelaszczyk (Mateusz Żelaszczyk)
 - 👀 I’m interested in long distance running
 - 🌱 I’m currently learning react 
 
